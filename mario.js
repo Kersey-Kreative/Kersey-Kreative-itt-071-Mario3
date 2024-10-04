@@ -1,5 +1,5 @@
-function drawLeftSlopePyramid() {
-    // Get the user input for height
+function myPyramid() {
+    // Get the user input for height of their pyramid
     let height = document.getElementById("height").value;
     height = parseInt(height, 10); // Convert input to an integer
 
