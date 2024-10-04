@@ -1,0 +1,19 @@
+#container {
+    margin: auto;
+    width: 50%;
+}
+#pyramid {
+    margin: auto;
+}
+body {
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+td {
+    padding: 5px;
+    text-align: left;
+    font-family: monospace; /* To align characters properly */
+}
